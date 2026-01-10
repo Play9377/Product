@@ -107,5 +107,5 @@ document.querySelector('#generate').addEventListener('click', function() {
 })
 
 document.querySelector('#source').addEventListener('click', function() {
-  window.open('https://github.com/shadowings-zy/internet-industry-terms-generator')
+  window.open('/')
 })
